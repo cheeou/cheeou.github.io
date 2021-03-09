@@ -1,19 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Cheeou's Memorandum
+email:              best.coder.jiwoo@gmail.com
+description:        나의 개발 비망록
+author:             cheeou
 baseurl:            ""
 url:                "https://cheeou.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+twitter_username:
+github_username:    cheeou
+facebook_username:
 
 # Build settings
 markdown:           kramdown
@@ -22,7 +17,6 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
   - jekyll-category-pages
 
-permalink: /:year/:month/:day/:title:output_ext
