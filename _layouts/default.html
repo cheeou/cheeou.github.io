@@ -2,18 +2,20 @@
 
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include navbar.html %}
+  {% include navbar.html %}
 
-    {{ content }}
+  {{ content }}
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    {% include scripts.html %}
-    <script id="dsq-count-scr" src="//rainsound-k.disqus.com/count.js" async></script>
-  </body>
+  {% include scripts.html %}
+
+  {% include google-analytics.html %}
+
+</body>
 
 </html>
