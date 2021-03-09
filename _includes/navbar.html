@@ -1,4 +1,45 @@
 <!-- Navigation -->
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="{{"/" | relative_url }}">rainsound 개발 노트</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
+        </li>
+        <li class="dropdown nav-item">
+          <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Posts<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li class="dropdown-list">
+              <a href="/posts">All Posts ({{ site.posts | size }})</a>
+            </li>
+            {% capture tags %}
+            {% for tag in site.categories %}
+            {{ tag[0] }}
+            {% endfor %}
+            {% endcapture %}
+            {% assign sortedtags = tags | split:' ' | sort %}
+            {% for tag in sortedtags %}
+            <li class="dropdown-list">
+              <a href="/category/{{ tag }}/index.html">{{ tag }} ({{ site.categories[tag] | size }})</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
@@ -24,3 +65,4 @@
     </div>
   </div>
 </nav>
+-->
