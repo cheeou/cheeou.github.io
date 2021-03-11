@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb757243-0f43-41b5-9be8-171fbfac10c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default-404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-clean-blog.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1pWm4s0NR40zlPk7k0nzR4tYQFl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb757243-0f43-41b5-9be8-171fbfac10c4" name="Default Changelist" comment="" />
+      <created>1615307032097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615307032097</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add category plugin">
+      <created>1615317753090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615317753090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update config">
+      <created>1615319282326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319282326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update cate_index.html">
+      <created>1615319664616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319664616</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update navbar">
+      <created>1615319829936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319829936</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upload _site folder">
+      <created>1615320775604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615320775604</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test posts by fork">
+      <created>1615320970586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615320970586</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test layout by fork">
+      <created>1615321145531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615321145531</updated>
+    </task>
+    <task id="LOCAL-00008" summary="revert">
+      <created>1615321451439</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615321451439</updated>
+    </task>
+    <task id="LOCAL-00009" summary="remove title">
+      <created>1615321576598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615321576598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add masthead.scss">
+      <created>1615322364379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615322364379</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add navbar.scss">
+      <created>1615322502387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615322502387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Edit category">
+      <created>1615458606267</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615458606267</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edit category">
+      <created>1615458887363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615458887363</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Edit Algorithm folder">
+      <created>1615459609597</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615459609597</updated>
+    </task>
+    <task id="LOCAL-00015" summary="폴더 갈아치움">
+      <created>1615461027232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615461027232</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add category plugin" />
+    <MESSAGE value="update config" />
+    <MESSAGE value="update cate_index.html" />
+    <MESSAGE value="update navbar" />
+    <MESSAGE value="upload _site folder" />
+    <MESSAGE value="Test posts by fork" />
+    <MESSAGE value="Test layout by fork" />
+    <MESSAGE value="Revert &quot;Test layout by fork&quot;&#10;&#10;This reverts commit 9c6d430a" />
+    <MESSAGE value="revert" />
+    <MESSAGE value="remove title" />
+    <MESSAGE value="add masthead.scss" />
+    <MESSAGE value="add navbar.scss" />
+    <MESSAGE value="Edit category" />
+    <MESSAGE value="Edit Algorithm folder" />
+    <MESSAGE value="폴더 갈아치움" />
+    <option name="LAST_COMMIT_MESSAGE" value="폴더 갈아치움" />
+  </component>
+</project>
