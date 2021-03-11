@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb757243-0f43-41b5-9be8-171fbfac10c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615461027232</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add my url">
+      <created>1615462567888</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1615462567888</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +192,7 @@
     <MESSAGE value="Edit category" />
     <MESSAGE value="Edit Algorithm folder" />
     <MESSAGE value="폴더 갈아치움" />
-    <option name="LAST_COMMIT_MESSAGE" value="폴더 갈아치움" />
+    <MESSAGE value="add my url" />
+    <option name="LAST_COMMIT_MESSAGE" value="add my url" />
   </component>
 </project>
