@@ -1,3 +1,0 @@
-User-agent: *
-Allow:/
-Sitemap: https://rainsound-k.github.io/sitemap.xml
